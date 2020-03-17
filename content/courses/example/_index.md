@@ -8,7 +8,7 @@ menu:
     name: Overview
     weight: 1
 summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
+  documentation, and tutorials. 
 title: Overview
 toc: true
 type: docs
@@ -16,6 +16,9 @@ weight: 1
 ---
 
 ## Flexibility
+
+NOTE TO READER: I haven't written anything on this courses page, but I haven't decided that I 
+  want to delete this page or its content yet.
 
 This feature can be used for publishing content such as:
 
