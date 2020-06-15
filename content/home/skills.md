@@ -24,6 +24,31 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "python"
+  
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "SciPy"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "numpy"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "pandas"
+
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "matplotlib"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Keras"
 
 [[feature]]
   icon = "atom"
