@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Backend/Database Developer"
+  company = "PolySci"
+  company_url = ""
+  location = "Indiana"
+  date_start = "2020-03-16"
+  description = """
+  Tasks:
+  
+  * Design and maintain the database supporting the app
+  * Developed software to gather data from various websites
+  * Cleaned, processed, and verified accuracy of data
+  """
+
+[[experience]]
   title = "Research Assistant"
   company = "Purdue University"
   company_url = ""
@@ -27,9 +41,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing 
-  * Modelling
-  * Presenting
+  * Analysed large data sets to investigate anamolous phenomena
+  * Fitted modeled behavior of resonance to determine how likely an outcome was
+  * Communicated methods and results via presentations and plots
   """
 
 [[experience]]
