@@ -17,13 +17,25 @@
       <link>/project/f0-980/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/project/f0-980/</guid>
-      <description>&lt;p&gt;NOTE: This is page is under construction and is not yet complete. The objective is to introduce the material for my research, and some of the work I did.The source code that generated the plots is available in the github link at the top, the data is not available however.&lt;/p&gt;
-&lt;p&gt;The largest project I worked on during graduate school was studying a resonance called f0(980). The objective of the research was to&lt;/p&gt;
+      <description>&lt;hr&gt;
+&lt;p&gt;NOTE: This is page is under construction and is not yet complete. The objective is to introduce the material for my research, and some of the work I did.The source code that generated the plots is available in the github link at the top, the data is not available however.&lt;/p&gt;
+&lt;p&gt;The largest project I worked on during graduate school was studying a resonance called f0(980). This resonance is particularly interesting because it is a candidate for potentially several kinds of exotic behavior/composition. The behavior I was most hopeful for was for f0 to possibly contain four quarks.&lt;/p&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction:&lt;/h1&gt;
+&lt;p&gt;Depending on your level of familiarity with high energy nuclear physics (HENP), you could skip this section. Here I will try to lay out some of the basic information to understand my research, and the overall system that is being studied.&lt;/p&gt;
+&lt;p&gt;The system that people in HENP spend a large amount of time studying is a phase of matter called Quark Gluon Plasma (QGP). The world you generally experience and see is composed almost entirely of atoms and their interactions with other atoms.&lt;/p&gt;
+&lt;h1 id=&#34;detector-details&#34;&gt;Detector Details:&lt;/h1&gt;
+&lt;p&gt;As my work was experimental, it is important to relate the equations and observables being measured to the laboratory values.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;annotated_detector_slide_variables.png&#34; alt=&#34;The STAR detector capturing tracks of particles in the detector after a collision. Axis and some variables are added for clarification in discussion.&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;my-research&#34;&gt;My Research:&lt;/h1&gt;
+&lt;p&gt;$$\begin{equation} 
+v_{2} = &amp;lt;cos(2\phi)&amp;gt; 
+\end{equation}$$&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;run11_full_mass_distribution_UL_min_LS.png&#34; alt=&#34;run 11 full mass distribution after subtraction&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;run11_f0_phi_distributions_fitted.png&#34; alt=&#34;run 11 f0 mass distributions phi cuts&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;run11_f0_v2_fit.png&#34; alt=&#34;run 11 f0 dNdPhi vs phi&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;run11_f0_v2_comparison.png&#34; alt=&#34;f0 vs comparison to other particles&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;run11_f0_v2_ncq.png&#34; alt=&#34;the final result&#34;&gt;&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
 </description>
     </item>
     
